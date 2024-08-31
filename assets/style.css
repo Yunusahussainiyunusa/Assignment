@@ -1,0 +1,42 @@
+body {
+ background-color: white;
+ text-align: center;
+ font-family: Arial, sans-serif;
+ margin: 20px;
+}
+
+
+h2{
+ color: rgb(22, 22, 24);
+ text-align: center;
+}
+
+
+
+
+#FirstName, #lastname, #gender, #date, #email, #phonenumber, #country, #state, #howdidyouhearaboutus, #password, #confirmpassword {
+
+ /* border-color: blue; */
+ /* margin-bottom: 50px; */
+ border-radius: 8px;
+ /* border: 2px; */
+ padding: 15px;
+ width: 400px;
+ height: 25px;
+}
+
+#gender {
+width: 440px;
+height: 60px;
+}
+
+#submit {
+ background-color: dodgerblue;
+ border-color: blue;
+ border: 2px ;
+ border-radius: 10px;
+ padding: 15px;
+ width: 500px;
+ height: 70px;
+
+}
